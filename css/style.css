@@ -19,7 +19,7 @@ main {
     min-height: calc(100vh - 100px);
   }
 
-.checked{
+i, .checked{
     color: orange;
 }
 
